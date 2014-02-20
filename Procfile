@@ -1,0 +1,1 @@
+web:    java $JAVA_OPTS -Dorg.apache.jasper.compiler.disablejsr199=true -jar target/dependency/jetty-runner.jar --port $PORT target/*.war
