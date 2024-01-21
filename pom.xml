@@ -76,7 +76,7 @@
 		</plugins>
 	</build>
 	<properties>
-		<cas.version>3.5.2</cas.version>
+		<cas.version>3.6.0</cas.version>
 		<jetty.version>8.1.14.v20131031</jetty.version>
 	</properties>
 </project>
